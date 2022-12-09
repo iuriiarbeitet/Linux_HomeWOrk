@@ -1,0 +1,7 @@
+   0 df -h | head -3 > /tmp/file.txt
+   1 export NAME=iurii VAR=student
+   2 env
+   3 env | head -7 | tail -2 >> /tmp/file.txt 
+   4 echo "Done" >> /tmp/file.txt 
+   5 unset NAME VAR
+   6 history > /tmp/history.txt
