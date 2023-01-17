@@ -1,0 +1,4 @@
+   0 nano fullscript.sh
+   1 chmod 744 fullscript.sh 
+   2 ./fullscript.sh 
+   3 history > /tmp/history_11_01_2023
